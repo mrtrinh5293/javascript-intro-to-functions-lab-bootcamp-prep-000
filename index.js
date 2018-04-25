@@ -8,8 +8,8 @@ function whisper(string){
 }
 
 function logShout(string){
-  // var spy = logShout
-  logShout.toUpperCase === spy
+  var spy = 'hello'
+  spy.toUpperCase === spy
   
   console.log(spy)
 }
