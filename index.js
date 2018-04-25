@@ -11,5 +11,5 @@ function logShout(string){
   var spy = "hello"
   spy.toUpperCase = spy
   
-  console.log(py)
+  console.log(spy)
 }
