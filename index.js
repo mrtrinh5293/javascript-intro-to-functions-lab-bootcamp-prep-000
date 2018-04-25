@@ -10,5 +10,5 @@ function whisper(string){
 function logShout(string){
   var logShout = "hello"
   logShout.toUpperCase === logShout
-  console.log(logShout)
+  console.log(spy)
 }
